@@ -2,9 +2,6 @@
 
 A responsive Nike shoes landing page built using HTML, CSS, and JavaScript. This project showcases modern UI design, responsive layout, and basic interactivity.
 
-## 🚀 Live Demo
-(Add your deployed link here if available)
-
 ## 📌 Features
 - Responsive design for mobile, tablet, and desktop
 - Modern Nike-inspired UI
